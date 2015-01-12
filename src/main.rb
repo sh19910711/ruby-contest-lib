@@ -1,3 +1,7 @@
 # @snip <./header.rb>
-def solve
-end
+
+module Solution; end
+
+# @snip <./runner.rb>
+# @snip <./solver.rb>
+
